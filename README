@@ -1,0 +1,2 @@
+clang unamegen.c -o unamegen
+
